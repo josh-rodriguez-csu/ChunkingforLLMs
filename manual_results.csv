@@ -1,0 +1,171 @@
+Dimension,Paper,Rater 1,Rater 2,Rater 3
+Physical Entity or Process,Zhou et al.,1,1,1
+Virtual Entity,Zhou et al.,1,1,1
+Virtual Process,Zhou et al.,1,1,1
+Physical Environment,Zhou et al.,1,1,1
+Virtual Environment,Zhou et al.,1,1,1
+Realization,Zhou et al.,1,1,0
+State,Zhou et al.,1,1,1
+Metrology,Zhou et al.,0,0,1
+Fidelity,Zhou et al.,1,1,1
+Parameters,Zhou et al.,1,1,1
+Twinning Rate,Zhou et al.,1,1,1
+Use-Cases,Zhou et al.,1,1,1
+Perceived Benefits,Zhou et al.,1,1,1
+Data Ownership and Security,Zhou et al.,0,0,0
+Scope,Zhou et al.,1,1,1
+V2P Connection,Zhou et al.,0,1,1
+P2V Connection,Zhou et al.,1,1,0
+Physical Entity or Process,Lu et al.,1,1,1
+Virtual Entity,Lu et al.,1,1,1
+Virtual Process,Lu et al.,1,1,1
+Physical Environment,Lu et al.,0,1,1
+Virtual Environment,Lu et al.,1,1,1
+Realization,Lu et al.,1,1,0
+State,Lu et al.,1,1,1
+Metrology,Lu et al.,1,1,1
+Fidelity,Lu et al.,0,1,0
+Parameters,Lu et al.,1,1,1
+Twinning Rate,Lu et al.,1,1,1
+Use-Cases,Lu et al.,1,1,1
+Perceived Benefits,Lu et al.,0,1,1
+Data Ownership and Security,Lu et al.,1,1,1
+Scope,Lu et al.,1,0,1
+V2P Connection,Lu et al.,1,0,0
+P2V Connection,Lu et al.,1,1,1
+Physical Entity or Process,Brahmbhatt,1,1,1
+Virtual Entity,Brahmbhatt,1,1,1
+Virtual Process,Brahmbhatt,1,1,1
+Physical Environment,Brahmbhatt,1,1,1
+Virtual Environment,Brahmbhatt,1,1,1
+Realization,Brahmbhatt,1,1,1
+State,Brahmbhatt,1,1,1
+Metrology,Brahmbhatt,1,1,1
+Fidelity,Brahmbhatt,1,1,1
+Parameters,Brahmbhatt,1,1,1
+Twinning Rate,Brahmbhatt,1,1,1
+Use-Cases,Brahmbhatt,1,1,1
+Perceived Benefits,Brahmbhatt,1,1,1
+Data Ownership and Security,Brahmbhatt,0,0,1
+Scope,Brahmbhatt,1,1,1
+V2P Connection,Brahmbhatt,0,0,1
+P2V Connection,Brahmbhatt,1,1,1
+Physical Entity or Process,van Rooij et al.,1,1,1
+Virtual Entity,van Rooij et al.,1,1,1
+Virtual Process,van Rooij et al.,1,1,1
+Physical Environment,van Rooij et al.,1,1,0
+Virtual Environment,van Rooij et al.,1,1,1
+Realization,van Rooij et al.,1,0,0
+State,van Rooij et al.,1,1,1
+Metrology,van Rooij et al.,1,1,0
+Fidelity,van Rooij et al.,1,1,1
+Parameters,van Rooij et al.,1,1,1
+Twinning Rate,van Rooij et al.,1,1,0
+Use-Cases,van Rooij et al.,1,1,1
+Perceived Benefits,van Rooij et al.,1,1,1
+Data Ownership and Security,van Rooij et al.,0,0,0
+Scope,van Rooij et al.,1,1,1
+V2P Connection,van Rooij et al.,1,0,0
+P2V Connection,van Rooij et al.,0,0,0
+Physical Entity or Process,Bernard,1,1,1
+Virtual Entity,Bernard,1,1,1
+Virtual Process,Bernard,1,1,0
+Physical Environment,Bernard,1,1,1
+Virtual Environment,Bernard,1,1,0
+Realization,Bernard,1,1,1
+State,Bernard,0,0,1
+Metrology,Bernard,1,1,1
+Fidelity,Bernard,0,0,1
+Parameters,Bernard,1,1,1
+Twinning Rate,Bernard,0,1,1
+Use-Cases,Bernard,1,1,1
+Perceived Benefits,Bernard,1,1,1
+Data Ownership and Security,Bernard,0,0,0
+Scope,Bernard,1,1,1
+V2P Connection,Bernard,1,1,1
+P2V Connection,Bernard,1,1,1
+Physical Entity or Process,Pesantez et al.,1,1,1
+Virtual Entity,Pesantez et al.,1,1,1
+Virtual Process,Pesantez et al.,1,1,1
+Physical Environment,Pesantez et al.,1,1,1
+Virtual Environment,Pesantez et al.,1,1,1
+Realization,Pesantez et al.,1,1,0
+State,Pesantez et al.,0,1,0
+Metrology,Pesantez et al.,1,1,1
+Fidelity,Pesantez et al.,1,1,1
+Parameters,Pesantez et al.,1,1,1
+Twinning Rate,Pesantez et al.,1,1,1
+Use-Cases,Pesantez et al.,1,1,1
+Perceived Benefits,Pesantez et al.,0,1,1
+Data Ownership and Security,Pesantez et al.,0,0,0
+Scope,Pesantez et al.,1,1,1
+V2P Connection,Pesantez et al.,1,0,1
+P2V Connection,Pesantez et al.,1,1,1
+Physical Entity or Process,Valverde-Perez,1,1,1
+Virtual Entity,Valverde-Perez,1,1,1
+Virtual Process,Valverde-Perez,1,1,1
+Physical Environment,Valverde-Perez,1,1,1
+Virtual Environment,Valverde-Perez,1,1,1
+Realization,Valverde-Perez,1,1,1
+State,Valverde-Perez,1,1,1
+Metrology,Valverde-Perez,1,1,1
+Fidelity,Valverde-Perez,1,1,1
+Parameters,Valverde-Perez,1,1,1
+Twinning Rate,Valverde-Perez,1,1,1
+Use-Cases,Valverde-Perez,1,1,1
+Perceived Benefits,Valverde-Perez,1,1,1
+Data Ownership and Security,Valverde-Perez,1,0,1
+Scope,Valverde-Perez,1,1,1
+V2P Connection,Valverde-Perez,1,1,1
+P2V Connection,Valverde-Perez,1,1,1
+Physical Entity or Process,Corriveau,1,1,1
+Virtual Entity,Corriveau,1,1,1
+Virtual Process,Corriveau,1,1,1
+Physical Environment,Corriveau,0,0,0
+Virtual Environment,Corriveau,1,0,1
+Realization,Corriveau,0,0,1
+State,Corriveau,0,0,1
+Metrology,Corriveau,1,1,1
+Fidelity,Corriveau,0,1,1
+Parameters,Corriveau,1,1,1
+Twinning Rate,Corriveau,1,1,1
+Use-Cases,Corriveau,1,1,1
+Perceived Benefits,Corriveau,1,1,1
+Data Ownership and Security,Corriveau,1,1,0
+Scope,Corriveau,0,0,1
+V2P Connection,Corriveau,1,1,1
+P2V Connection,Corriveau,0,1,1
+Physical Entity or Process,Conejos Fuertes et al.,1,1,1
+Virtual Entity,Conejos Fuertes et al.,1,1,1
+Virtual Process,Conejos Fuertes et al.,1,1,1
+Physical Environment,Conejos Fuertes et al.,1,1,1
+Virtual Environment,Conejos Fuertes et al.,1,1,1
+Realization,Conejos Fuertes et al.,1,1,1
+State,Conejos Fuertes et al.,1,1,1
+Metrology,Conejos Fuertes et al.,1,1,1
+Fidelity,Conejos Fuertes et al.,1,1,1
+Parameters,Conejos Fuertes et al.,1,1,1
+Twinning Rate,Conejos Fuertes et al.,1,1,1
+Use-Cases,Conejos Fuertes et al.,1,1,1
+Perceived Benefits,Conejos Fuertes et al.,1,1,1
+Data Ownership and Security,Conejos Fuertes et al.,0,0,0
+Scope,Conejos Fuertes et al.,1,1,1
+V2P Connection,Conejos Fuertes et al.,1,1,1
+P2V Connection,Conejos Fuertes et al.,1,1,1
+Physical Entity or Process,Tripathi et al.,1,1,1
+Virtual Entity,Tripathi et al.,1,1,1
+Virtual Process,Tripathi et al.,1,1,1
+Physical Environment,Tripathi et al.,1,1,1
+Virtual Environment,Tripathi et al.,1,1,1
+Realization,Tripathi et al.,1,1,1
+State,Tripathi et al.,0,0,1
+Metrology,Tripathi et al.,1,1,1
+Fidelity,Tripathi et al.,1,1,0
+Parameters,Tripathi et al.,1,1,1
+Twinning Rate,Tripathi et al.,1,1,1
+Use-Cases,Tripathi et al.,1,1,1
+Perceived Benefits,Tripathi et al.,1,1,1
+Data Ownership and Security,Tripathi et al.,1,0,0
+Scope,Tripathi et al.,0,1,1
+V2P Connection,Tripathi et al.,0,0,1
+P2V Connection,Tripathi et al.,1,1,1
