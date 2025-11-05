@@ -28,5 +28,5 @@ File: LLMsForDeductiveCoding_Appendix.xlsx
 Context: Contains additional materials to aid in the understanding of the research process. 
 
 Sheet:
-DT Dimensions - Contains the codebook used for both manual and LLM raters.
+DT Dimensions - Contains the codebook used for both manual and LLM raters, including the example statements used in single-shot prompting described in Appendix B.
 Paper Citations - Contains the complete list of citations and links for the papers analyzed in this study. 
